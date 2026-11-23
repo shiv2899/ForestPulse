@@ -1,0 +1,63 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+venv311/
+.env/
+.venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# ForestPulse - Project specific - Ye sabse important hai
+data/
+dataset/
+raw_data/
+processed_data/
+*.tif
+*.tiff
+*.jp2
+*.png
+*.jpg
+*.jpeg
+
+# Model - bada file, GitHub pe mat bhejo
+*.pth
+*.h5
+*.pt
+*.ckpt
+*.onnx
+checkpoints/
+runs/
+outputs/
+results/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
