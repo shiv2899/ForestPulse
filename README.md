@@ -1,6 +1,8 @@
-# Deforestation Detection from Satellite Images
+# ForestPulse - Deforestation Detection from Satellite Images
 
 Detect forest loss from satellite images using U-Net segmentation + multi-date change detection.
+
+> Built a deforestation monitoring pipeline using Sentinel-2 imagery, U-Net segmentation and multi-date change detection, visualized on an interactive map.
 
 ## Results
 - Dataset: 5108 aerial images (256x256) - DeepGlobe / Forest Segmentation
